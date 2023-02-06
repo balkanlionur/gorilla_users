@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-Show to Gorilla User.jpg
+Gorilla User.jpg
